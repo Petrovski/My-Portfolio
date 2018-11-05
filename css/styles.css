@@ -103,9 +103,6 @@ canvas {
 
 
 @media only screen and (max-width: 600px) {
-    .mecontainer {
-      background: red;
-    }
 
     #myname {
       font-size: 45px;
@@ -114,4 +111,5 @@ canvas {
     #job {
       font-size: 30px;
     }
+    
 }
