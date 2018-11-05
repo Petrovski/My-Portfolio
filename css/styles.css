@@ -105,11 +105,11 @@ canvas {
 @media only screen and (max-width: 600px) {
 
     #myname {
-      font-size: 45px;
+      font-size: 40px;
     }
 
     #job {
       font-size: 30px;
     }
-    
+
 }
