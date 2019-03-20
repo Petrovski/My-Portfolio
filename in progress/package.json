@@ -1,8 +1,8 @@
 {
-    "title": "Freelancer",
-    "name": "startbootstrap-freelancer",
+    "title": "Portfolio",
+    "name": "petroski-portfolio",
     "version": "5.0.0",
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
+    "description": "Portfolio for Alexander Petroski",
     "keywords": [
         "css",
         "sass",
